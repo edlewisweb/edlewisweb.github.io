@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+As of 2023 I’ve been programming for nearly 25 years - all of my adult life. I started writing Perl, picked up C (as was the “paved road” at the time) before moving into many other languages like Scala and Rust. I have a BSc in Computing Science too.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+After that long coding alone loses its novelty - I feel it’s making things that drives engineers. I’ve been leading engineering teams for a little over five years now and like with programming, I’m starting to see repeating patterns. That brings me to why I’m here. There are three reasons:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+1. **To improve my ability to express complex ideas through writing**
+2. **Ensuring my thoughts are oriented and scrutable (as opposed to a jumbled set of observations)**
+3. **Providing a place to link back to my thoughts on a specific subject in discussions**
 
+I want to provide some value to you through me trying to reach those goals, and I feel like if I miss I’ll probably still learn something. I’ll know I’ve succeeded if I’m embarrassed and/or unimpressed looking back. 
 
-[jekyll-organization]: https://github.com/jekyll
+Memento mori (the original YOLO),
+
+Ed
