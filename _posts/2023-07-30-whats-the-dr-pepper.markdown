@@ -39,7 +39,7 @@ None of this is to say a risk register is a bad idea that won’t lead to sensib
 
 Risk registers are useful in that they force us to run through some of the common failure modes of all the systems we use, but they also give us tunnel vision. In giving each eventuality a rating and apportioning some of our resources in relation to that rating we feel in control. That feeling of control is an illusion! What’s worse is often this list only ever grows and scar tissue forms around performing actions, slowing down your progress. 
 
-I have come to believe that most of the time we should be focussed on protecting assets in the worst case scenario - the Dr Pepper event - because that doesn’t need any predictions and therefore avoid the problem of trying to guess everything that could go wrong. 
+I have come to believe that most of the time we should be focussed on protecting assets in the worst case scenario - the Dr Pepper event - because that doesn’t need any predictions and therefore avoids the problem of trying to guess everything that could go wrong. 
 
 Two books that heavily influenced my thinking on this topic are:
 
