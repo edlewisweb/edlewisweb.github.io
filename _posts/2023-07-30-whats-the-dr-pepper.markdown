@@ -33,7 +33,7 @@ If you spent a long time on this you might think you’re safe. However consider
 
 Instead of trying to enumerate the outcome set, in most cases it seems we’re better off side-stepping that problem altogether. We can do that by thinking about the worst thing that could happen and *plan for that instead*. This is preparing for the worst, the Dr Pepper event. 
 
-In our end of the world house example, the worst that can happen is we have nowhere to sleep if the house is destroyed. Therefore the most complete solution to all of the “house is destroyed problems” is to build another place to sleep. Redundancy is a common mitigation strategy which doesn’t come naturally to most people because it feels wasteful but it’s the only thing that can protect us from the unpredictable house destroying events, which we know exist (every house is destroyed by something).
+In our end of the world house example, the worst that can happen is we have nowhere to sleep if the house is destroyed. Therefore the most complete solution to all of the “house is destroyed problems” is to build another place to sleep. Redundancy is a common mitigation strategy which doesn’t come naturally to most people because it feels wasteful, but it’s the only thing that can protect us from the unpredictable house destroying events which we know exist (every house is destroyed by something!).
 
 None of this is to say a risk register is a bad idea that won’t lead to sensible precautions but like many complex systems, risk registers can become recursive when you try to account for unknowns. This is like writing down a risk that you don’t know all the risks - it’s true but it’s also very difficult to make use of it in that dimension.
 
@@ -46,6 +46,6 @@ Two books that heavily influenced my thinking on this topic are:
 * [The Black Swan: The Impact of the Highly Improbable (Nassim Nicholas Taleb)](https://www.amazon.co.uk/Black-Swan-Impact-Highly-Improbable/dp/0141034599)
 * [Team of Teams: New Rules of Engagement for a Complex World (General Stanley McChrystal)](https://www.amazon.co.uk/Team-Teams-Rules-Engagement-Complex/dp/0241250838)
 
-And a bonus short video on complexity if it’s new to you:
+And a bonus short video on complexity:
 
 * [Is life really that complex? | Hannah Fry | TEDxUCL](https://www.youtube.com/watch?v=LnQYJa9-aR0)
