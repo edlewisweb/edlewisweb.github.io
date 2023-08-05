@@ -21,7 +21,7 @@
 title: EdLewis.net
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Meditations, knick-knacks and clichés. 
+  A place to share my thoughts and the occasional cliché. 
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://edlewis.net" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -33,6 +33,12 @@ theme: minima
 plugins:
   - jekyll-feed
 markdown: GFM
+
+defaults:
+  - scope:
+      path: "assets/img/posts"
+    values:
+      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
