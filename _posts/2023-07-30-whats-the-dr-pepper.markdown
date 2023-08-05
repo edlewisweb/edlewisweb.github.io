@@ -17,21 +17,17 @@ The vast majority of life’s decisions fall into this category of having a “n
  
 We do see probability problems being solved by companies like home insurers and it might seem like they have the answer; they can’t know all the different events that will cause a payout (enumerate the outcome set) but they can make a prediction on the rate of payouts across a group. This is a subtly different problem - it’s a way of moving from a detailed understanding of the risks of an individual house (which we cannot know entirely) towards a statistical guess across a lot of houses. This type of guess is only useful across the population (i.e. many houses) and does not answer any questions about a specific house. This is why we don’t allow people to opt out of car insurance - it’s impossible to know or prove your own payout risk (even by a rational actor). 
 
-There are many times we end up trying to “insure ourselves” like this however - we list out all the possible bad outcomes and try to apportion a probable chance to each. We then dedicate resources to mitigate against each negative possibility in relation to our guess at its likelihood.
+There are many times we end up trying to “insure ourselves” like this however. We list out all the possible bad outcomes and try to apportion a probable chance to each. We then dedicate resources to mitigate against each negative possibility in relation to our guess at its likelihood.
 
 For example, imagine you’re the only person alive on earth. You have a house that you rely on for shelter. You know losing it would result in serious hardship. In the old world, you would buy insurance but in the new world there is no insurance, so you have to protect against that hardship. You might build a risk register like this:
 
-Fire
-Mitigation: make sure to cook outside, no fire in the house
-Flood
-Mitigation: build on a hill
-Electrical fire
-Mitigation: check fuses and sockets on cycle
-Mitigation: turn everything off as you leave
-Hurricane
-Mitigation: add shutters to windows
-Mitigation: pre season roof check
-..
+| Possibility | Mitigation                                                  |
+|-------------|-------------------------------------------------------------|
+| **Cooking fire**  | Make sure to cook outside, no fire in the house     |
+| **Flood** | Build on a hill
+| **Electrical fire** | Check fuses and sockets on cycle. <br> Turn everything off as you leave | 
+| **Hurricane** | Add shutters to windows <br> Pre season roof check |
+| ...           | ... |
 
 If you spent a long time on this you might think you’re safe. However consider something else you know to be very likely true: *every house ever built has been both cared for and yet ultimately destroyed*. Knowing what’s going to destroy it is what’s not possible - and yet, that’s exactly what we’ve just tried to predict with that risk register, even though we know it will be destroyed eventually (perhaps ideally after you die). This is the same idea that eventually your die roll will slip under some furniture or land on a non flat surface, you just don’t know how or when.
 
