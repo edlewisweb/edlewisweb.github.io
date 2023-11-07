@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "When Science?"
+title:  "When science?"
 date:   2023-11-03 08:20:00 +0000
 categories: knowledge science
 ---
 
-# Where Science? 
+# Where science? 
 
 In 2023 idea that everything needs to be data led and backed in science seems to be reaching near-religious levels. This post isn’t intended to be a book burning exercise, rather a brief investigation into what science is and why it’s not always appropriate.
 
-## What is Science? 
+## What is science? 
 
 I'm describing science as the application of the scientific method over time. The scientific method works on falsification - **asserting things which are not true**. 
 We build a mental model of the world (known as a **hypothesis**) avoiding those things which we know to be false. We find ways to generate supporting or detracting evidence via **experiments**. 
