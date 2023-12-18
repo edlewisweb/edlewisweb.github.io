@@ -5,7 +5,7 @@ date:   2023-11-03 08:20:00 +0000
 categories: knowledge science
 ---
 
-# Where is science used? 
+## Where is science used? 
 
 In 2023 idea that everything needs to be data led and backed in science seems to be reaching near-religious levels. This post isn’t intended to be a book burning exercise, rather a brief investigation into what science is and why it’s not always appropriate.
 
@@ -16,7 +16,7 @@ We build a mental model of the world (known as a **hypothesis**) avoiding those 
 
 Philosophically this falls into a branch of epistemology known as “induction”. Induction is not without limits!
 
-## Problem #1: Where do hypotheses come from? 
+### Problem #1: Where do hypotheses come from? 
 
 Mathematics has an advantage over science in that its knowledge is collected deductively from a timeless base. To give an example of this base, the word “between” describes a relation of three concepts - something in the middle of two other things. There’s no other possible configuration for this idea and at least three things must exist for the word to have any meaning. This is known as a universal and we see these universals as a-priori (practically speaking, eternal ideas). From these a-priori universals we can deduce many things like counting, trigonometry and topology.
 
@@ -30,7 +30,7 @@ A hypothesis is that model built by us to describe those patterns, which helps u
 
 None of this is intended to say science is useless and mathematics is somehow pure. Induction is essential to believing in reality at all. I hope to persuade you only that science and mathematics have quite different views of knowledge and that these differences are either more or less useful based on your intent.
 
-## Problem #2: Can a hypothesis really be proven?
+### Problem #2: Can a hypothesis really be proven?
 
 Of course after a hypothesis has been tested in many different ways we come to describe it as a theory, indicating we are relatively sure it is true. For science to progress however everything must be open to scrutiny at any time - because it is validated inductively through falsification. 
 
@@ -44,7 +44,7 @@ Some of these theories are very reliable but still discovered to be wrong. Newto
 
 We should pause here though to establish that believing even in Newton's gravity is a useful tool to stop you falling to your death.
  
-## Problem #3: [The replication crisis](https://en.wikipedia.org/wiki/Replication_crisis)
+### Problem #3: [The replication crisis](https://en.wikipedia.org/wiki/Replication_crisis)
 
 When not busy with apples in the garden Newton was investigating light by jamming spoons in his eyes in the 1600s. In 2010 the CERN Large Hadron Collider (LHC) was switched on at a cost of $5bn, [involving >10,000 scientists and over 100 countries](https://en.wikipedia.org/wiki/Large_Hadron_Collider). Putting spoons in your eyes is a considerably more straightforward proposition than building a massive particle accelerator; every time the spoon goes in something funny happens to what you see. The LHC took years to produce understandable results and is affected by everything from the ambient temperature, air pressure to background radiation sources. The difficulty is in isolating the thing you’re trying to build a hypothesis for. Things become increasingly difficult the smaller or faster things get (e.g particle physics) or in [complex systems]({% post_url 2023-08-13-types-of-system %}) like the stock market. 
 
