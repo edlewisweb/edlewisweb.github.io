@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "When science?"
+title:  "When should we use science?"
 date:   2023-11-03 08:20:00 +0000
 categories: knowledge science
 ---
 
-# Where science? 
+# Where is science used? 
 
 In 2023 idea that everything needs to be data led and backed in science seems to be reaching near-religious levels. This post isn’t intended to be a book burning exercise, rather a brief investigation into what science is and why it’s not always appropriate.
 
