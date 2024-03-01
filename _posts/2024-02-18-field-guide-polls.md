@@ -9,7 +9,7 @@ categories: leadership polls
 
 Polls like this - completely inconclusive - seem to fill slack channels everywhere. I intend to describe some reasons why this happens and a recipe to get decisions over the line. It’s aimed primarily at those readers charged with a team or the responsibility for a decision. 
 
-*[If you don't want or need the background information, click here for the conclusion.](#putting-it-all-together-a-recipe-for-decision-making-with-group-input-the-vote-discuss-decide-play)*
+*[If you don't want or need the background information, click here for the conclusion.](#putting-it-all-together-the-vote-discuss-decide-play)*
 
 ## What types of polls are there?
 
