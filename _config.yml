@@ -19,16 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: EdLewis.net
-email: contact@edlewis.net
-description: >- # this means to ignore newlines until "baseurl:"
-  Ed Lewis
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://edlewis.net" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-github_username:  ninjabear
+
+author: 
+  name: Ed Lewis
+  email: contact@edlewis.net
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
@@ -42,8 +41,15 @@ defaults:
 
 google_analytics: "G-36WQDKNE1C"
 
+header_pages:
+  - about.markdown
+
 minima:
   skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/ninjabear", title: 'ninjabear on Github' }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/edwardrlewis/", title: 'Add me on LinkedIn'}
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
