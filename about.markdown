@@ -6,7 +6,7 @@ permalink: /about/
 
 As of 2024 I’ve been programming computers for about 25 years. I started writing Perl, picked up C (as was the “paved road” at the time) before moving into many other languages like Scala and Rust. I have a BSc in Computing Science too.
 
-After that long coding alone loses its novelty - I feel it’s making things that drives engineers. I’ve been leading engineering teams for a little over five years now and like with programming, I’m starting to see repeating patterns. That brings me to why I’m here. There are three reasons:
+After that long coding alone loses its novelty - I feel it’s making things that drives engineers. I’ve been leading engineering teams for over five years now and like I did with programming, I’m starting to see repeating patterns. That brings me to why I’m here. I have three goals:
 
 1. **To improve my ability to express complex ideas through writing**
 2. **Ensuring my thoughts are oriented and scrutable (as opposed to a jumbled set of observations)**
