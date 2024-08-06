@@ -124,7 +124,7 @@ Very likely the previous discussion will have ended in a concrete recommendation
 ![Han saying make decisions and move on in fast and furious](/assets/img/posts/han.jpg)
 
 
-## Related Reading
+## Related reading
 
 * [Leadership is Language by David Marquet (author of the vote, discuss, decide play)](https://www.amazon.co.uk/Say-Less-Lead-More-Difference/dp/0241373662)
 * [Concordet paradox](https://en.wikipedia.org/wiki/Condorcet_paradox)
