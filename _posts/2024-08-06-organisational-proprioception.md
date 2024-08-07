@@ -18,7 +18,7 @@ Leadership and organisational proprioception is about making sure that everyone 
 
 This affects both directions of information travel because your boss doesn’t want to be on the hook for working on the wrong thing and you don’t want to appear to be doing nothing and get laid off. If you’ve worked in tech long you’ll have seen many of these aimless teams with standups full of refactoring, updating dependencies and general “adrift”ness. 
 
-I feel this is so commonplace in tech right now that it’s a brewing bubble. Cash has been relatively cheap to borrow and the only tools organisations seem to employ dealing with ineffectiveness are layoffs. If I’m right in what I’m saying here, it should be clear why such large cuts in people result in such little difference in overall performance. Twitter cut more than 50% of its team and it’s still here, people are still using it and talking about it. Why is it not dead? What did those people do? I think honestly - things of marginal value to the company. That's not to say they *deserved* to be laid off. The opposite seems true. The company wasted their time and effort and there's nothing they could have done about it (and then they got fired).  
+I feel this is so commonplace in tech right now that it’s a brewing bubble. Cash has been relatively cheap to borrow and the only tools organisations seem to employ dealing with ineffectiveness are layoffs. If I’m right in what I’m saying here, it should be clear why such large cuts in people result in such little difference in overall performance.
 
 ## What to do
 
